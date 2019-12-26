@@ -9,4 +9,5 @@ Keep tracking of number of cycles of your LiPo batteries using NFC tags
 - 4 pushbuttons
 - some 220Ω resistors
 - some 100nF cap
+- 4.7k trimmer
 - RFID tags (mifare classic 1k)
