@@ -2,13 +2,13 @@
 
 Keep tracking of number of cycles of your LiPo batteries using NFC tags
 
-RM - READ MODE (short press mode button)
-Read tag info 
+RM - READ MODE (short press mode button) <br />
+Read tag info   <br />
 
-CM - COUNTER MODE (short press mode button)
+CM - COUNTER MODE (short press mode button)<br />
 Like read mode but counter is increased by 1 unit (default mode after power on)
 
-SET MODE (press mode button for 2 sec)
+SET MODE (press mode button for 2 sec)<br />
 Write all tag info (short press mode button for menu navigation)
 
 
