@@ -2,6 +2,15 @@
 
 Keep tracking of number of cycles of your LiPo batteries using NFC tags
 
+RM - READ MODE (short press mode button)
+Read tag info 
+
+CM - COUNTER MODE (short press mode button)
+Like read mode but counter is increased by 1 unit (default mode after power on)
+
+SET MODE (press mode button for 2 sec)
+Write all tag info (short press mode button for menu navigation)
+
 
 - Arduino NANO
 - RC522 RFID reader
@@ -10,4 +19,4 @@ Keep tracking of number of cycles of your LiPo batteries using NFC tags
 - some 220Ω resistors
 - some 100nF cap
 - 4.7k trimmer
-- RFID tags (mifare classic 1k)
+- RFID tags (mifare classic 1k, default password FFFFFFFFFFFF)
