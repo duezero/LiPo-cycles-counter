@@ -1,7 +1,8 @@
 # LiPo-cycles-counter
 
 Keep tracking of number of cycles of your LiPo batteries using NFC tags<br />
-I usually keep this device near the battery charger, before charging a battery I add a count to it.
+I usually keep this device near the battery charger, before charging a battery I add a count to it<br />
+[Video](https://www.youtube.com/watch?v=cQ8MbUWtfQA&feature=youtu.be)
 
 *MODES OF OPERATIONS* <br />
 
@@ -25,4 +26,6 @@ Write all tag info (short press mode button for menu navigation, up and down but
 - RFID tags (mifare classic 1k, default password FFFFFFFFFFFF)
 
 **IMPORTANT**<br />
-LiPo cells are enclosed in aluminum foil that can interfere with rfid tags, by placing the tag on the bottom of the battery there should be no problems. On the side of batteries instead probably the tag will not work. To avoid interferences is necessary to increase distance(using non metallic shim) between tag and battery until reading is ok.
+LiPo cells are enclosed in aluminum foil that can interfere with rfid tags, by placing the tag on the bottom of the battery there should be no problems. On the side of batteries instead probably the tag will not work. To avoid interferences is necessary to increase distance(using non metallic shim) between tag and battery until reading is ok. <br />
+
+3D files are not available yet
