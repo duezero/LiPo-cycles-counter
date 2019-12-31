@@ -14,7 +14,7 @@ Like read mode but counter is increased by 1 unit (default mode after power on)
 SET MODE (press mode button for 2 sec)<br />
 Write all tag info (short press mode button for menu navigation, up and down button for change values, E button for exit)
 
-
+*COMPONENTS* <br />
 - Arduino NANO
 - RC522 RFID reader
 - 16x2 LCD 
@@ -23,3 +23,6 @@ Write all tag info (short press mode button for menu navigation, up and down but
 - some 100nF cap
 - 4.7k trimmer
 - RFID tags (mifare classic 1k, default password FFFFFFFFFFFF)
+
+**IMPORTANT**<br />
+LiPo cells are enclosed in aluminum foil that can interfere with rfid tags, by placing the tag on the bottom of the battery there should be no problems. On the side of batteries instead probably the tag will not work. To avoid interferences is necessary to increase distance(using non metallic shim) between tag and battery until reading is ok.
