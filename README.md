@@ -4,7 +4,7 @@ Keep tracking of number of cycles of your LiPo batteries using NFC tags<br />
 I usually keep this device near the battery charger, before charging a battery I add a count to it<br />
 [Video](https://www.youtube.com/watch?v=cQ8MbUWtfQA&feature=youtu.be)
 
-*MODES OF OPERATIONS* <br />
+*MODES OF OPERATION* <br />
 
 RM - READ MODE (short press mode button) <br />
 Read tag info   <br />
